@@ -1,6 +1,4 @@
-Don't run yarn install, dependencies are already commited
-
-Run cd packages/pkgA && yarn start
+Run yarn && cd packages/pkgA && yarn start
 
 You should get an error because typeorm can't find driver
 
