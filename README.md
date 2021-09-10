@@ -1,6 +1,4 @@
-Don't run yarn install, dependencies are already commited
-
-Run yarn start
+Run yarn && yarn start
 
 You should get a timeout error because there's no database running (this is ok)
 
