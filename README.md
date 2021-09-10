@@ -1,6 +1,4 @@
-Don't run yarn install, dependencies are already commited
-
-Run yarn start
+Run yarn && yarn start
 
 You should get a dependency error, which seems like a nest bug related to yarn pnp
 
